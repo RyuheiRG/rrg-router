@@ -1,0 +1,1 @@
+export var EVENT={PUSHSTATE:"pushstate",POPSTATE:"popstate"};
